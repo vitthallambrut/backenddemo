@@ -1,4 +1,4 @@
 # backenddemo
 
-Install the file and cd file name and run the command 
+Install the file and cd file and run the command 
 nom i
